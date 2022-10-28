@@ -9,3 +9,5 @@ I was interested in this data set because I am a fan of Pokemon and have been si
 8) What team would be the most well-rouned team stat wise?
 9) Which Pokemon type is the weakest?
 10) Which is the strongest?
+11) Is there a correlation between a Pokemon having a high attack and defense?
+12) Is there a correlation between a Pokemon with high defense and HP?
